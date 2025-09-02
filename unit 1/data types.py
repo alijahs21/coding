@@ -24,15 +24,14 @@
 06.21
 
 # bopalen- a varible that only be true or false
-true
-false
+True
+False
 0
 1
-""- false
-"vdsbiuiui"- true
+""- False
+"vdsbiuiui"- True
 
 # varibles- containers for data
- schoolname = "Boys Latin"
+schoolname = "Boys Latin"
  address = "768 maple ave"
- phone= "1311215"
- 
+ phone = "1311215"
