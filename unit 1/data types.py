@@ -33,5 +33,5 @@ False
 
 # varibles- containers for data
 schoolname = "Boys Latin"
- address = "768 maple ave"
- phone = "1311215"
+address = "768 maple ave"
+phone = "1234"
